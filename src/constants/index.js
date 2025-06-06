@@ -116,6 +116,12 @@ const techStackIcons = [
     rotation: [0, -Math.PI / 12, 0],
   },
   {
+    name: "Python",
+    modelPath: "/models/python-transformed.glb",
+    scale: 0.8,
+    rotation: [0, 0, 0],
+  },
+  {
     name: "Backend Developer",
     modelPath: "/models/node-transformed.glb",
     scale: 5,
@@ -125,12 +131,6 @@ const techStackIcons = [
     name: "React Developer",
     modelPath: "/models/react_logo-transformed.glb",
     scale: 1,
-    rotation: [0, 0, 0],
-  },
-  {
-    name: "Python",
-    modelPath: "/models/python-transformed.glb",
-    scale: 0.8,
     rotation: [0, 0, 0],
   },
   {
@@ -195,48 +195,48 @@ const expLogos = [
   },
 ];
 
-const testimonials = [
+const achievements = [
   {
-    name: "Esther Howard",
+    name: "Art X AI",
     mentions: "@estherhoward",
     review:
-      "I can’t say enough good things about Adrian. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.",
-    imgPath: "/images/client1.png",
+      "Secured 1st Rank out of 600+ Participants in the prestigious ArtXAI Competition held at IIIT Surat. Conceptualized and created a 100-page AI-generated comic book, leveraging cutting-edge generative AI tools for storytelling, art design, and panel composition. Recognized for creativity, innovation, and technical excellence in merging art with artificial intelligence.",
+    imgPath: "/images/manga.png",
   },
   {
-    name: "Wade Warren",
+    name: "Hack Odisha 3.0",
     mentions: "@wadewarren",
     review:
-      "Working with Adrian was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.",
-    imgPath: "/images/client3.png",
+      "Secured 7th Rank among 500+ Teams in HackOdisha, a thrilling 36-hour online hackathon organized by NIT Rourkela.Developed a feature-rich Game Explorer Website with an intuitive frontend, robust backend, and integrated ML-based game recommendation system. Demonstrated full-stack development skills and effective teamwork under intense time constraints.",
+    imgPath: "/images/ho.png",
   },
   {
-    name: "Guy Hawkins",
+    name: "HSBC CTF",
     mentions: "@guyhawkins",
     review:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    imgPath: "/images/client2.png",
+      "Secured 23rd Rank among 1000+ Participants in the HSBC Cyber Security Capture the Flag (CTF) Competition. Demonstrated strong problem-solving skills across various cybersecurity domains including cryptography, web exploitation, reverse engineering, and digital forensics.",
+    imgPath: "/images/HSBC.png",
   },
   {
-    name: "Marvin McKinney",
+    name: "Codeforces",
     mentions: "@marvinmckinney",
     review:
-      "Adrian was a pleasure to work with. He turned our outdated website into a fresh, intuitive platform that’s both modern and easy to navigate. Fantastic work overall.",
-    imgPath: "/images/client5.png",
+      "Secured Global Rank 727 among 30,000+ Participants in Codeforces Round 1009. Demonstrated strong grasp over competitive programming concepts such as greedy algorithms, dynamic programming, and problem-solving under constraints. Ranked in the top 2.5% globally, highlighting consistency and efficiency in a highly competitive environment.",
+    imgPath: "/images/codeforces.png",
   },
   {
-    name: "Floyd Miles",
+    name: "Codechef",
     mentions: "@floydmiles",
     review:
-      "Adrian’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional!",
-    imgPath: "/images/client4.png",
+      "Achieved Global Rank 62 among 10,000+ Participants in CodeChef Starter Round 188. Showcased advanced algorithmic thinking and competitive programming skills in a high-stakes environment, solving complex problems under time pressure. Demonstrated consistency, speed, and accuracy across data structures, math, and optimization challenges.",
+    imgPath: "/images/codechef.png",
   },
   {
-    name: "Albert Flores",
+    name: "Leetcode",
     mentions: "@albertflores",
     review:
-      "Adrian was a pleasure to work with. He understood our requirements perfectly and delivered a website that exceeded our expectations. His skills in both frontend and backend dev are top-notch.",
-    imgPath: "/images/client6.png",
+      "Ranked in the Top 5% of Programmers on LeetCode with a highest rating of 1866. Solved 500+ problems across diverse domains including algorithms, data structures, and system design. Consistently demonstrated efficient problem-solving and code optimization in global contests and daily challenges.",
+    imgPath: "/images/leetcode.png",
   },
 ];
 
@@ -266,7 +266,7 @@ export {
   counterItems,
   expCards,
   expLogos,
-  testimonials,
+  achievements,
   socialImgs,
   techStackIcons,
   techStackImgs,
