@@ -7,7 +7,7 @@ export const Achievements = () => {
   return (
     <section id="achievements" className='flex-center section-padding'>
         <div className='w-full h-full md:px-10 px-5'>
-            <TitleHeader title="My Achievements" sub="🚀 Milestones That Define Me"/>
+            <TitleHeader title="My Achievements" sub="🏆 Milestones That Define Me"/>
 
             <div className='lg:columns-3 md:columns-2 columns-1 mt-16'>
                 {achievements.map((achievement)=>(

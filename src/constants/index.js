@@ -28,7 +28,7 @@ const counterItems = [
   { value: 1650, suffix: "+", label: "Rated on Codeforces" },
   { value: 1850, suffix: "+", label: "Rated on Leetcode" },
   { value: 1800, suffix: "+", label: "Rated on Codechef" },
-  { value: 20, suffix: "+", label: "Completed Projects" },
+  { value: 10, suffix: "+", label: "Completed Projects" },
 ];
 
 const logoIconsList = [
@@ -143,7 +143,7 @@ const techStackIcons = [
 
 const expCards = [
   {
-    review: "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
+    review: "Apart from leading the club, also worked on a project under Prof. Shriman Narayana to enhance phishing detection mechanisms and develop strategies to mitigate Man-in-the-Middle (MITM) attacks.",
     imgPath: "/images/gdg.png",
     logoPath: "/images/gdglogo.png",
     title: "Cyber Security Lead",
@@ -155,7 +155,7 @@ const expCards = [
     ],
   },
   {
-    review: "Adrian’s contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
+    review: "During this period I worked collaboratively as a team to optimize network packet handling, increasing anticipated throughput by over 35% and reducing packet loss latency by approximately 120ms.",
     imgPath: "/images/teachnook.png",
     logoPath: "/images/tn-logo.png",
     title: "Cyber Security Intern",
@@ -167,7 +167,7 @@ const expCards = [
     ],
   },
   {
-    review: "Adrian’s work on Appwrite’s mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
+    review: "My best work during this period was developing a Rock vs Mine Prediction Model, which achieved up to 95% accuracy.",
     imgPath: "/images/gdg.png",
     logoPath: "/images/gdglogo.png",
     title: "Junior Developer",
@@ -200,15 +200,15 @@ const achievements = [
     name: "Art X AI",
     mentions: "@estherhoward",
     review:
-      "Secured 1st Rank out of 600+ Participants in the prestigious ArtXAI Competition held at IIIT Surat. Conceptualized and created a 100-page AI-generated comic book, leveraging cutting-edge generative AI tools for storytelling, art design, and panel composition. Recognized for creativity, innovation, and technical excellence in merging art with artificial intelligence.",
+      "Secured 1st Rank out of 600+ Participants in the prestigious ArtXAI Competition held at IIIT Surat. Conceptualized and created a 100-page AI-generated comic book (manga), leveraging cutting-edge generative AI tools for storytelling, art design, and panel composition. Recognized for creativity, innovation, and technical excellence in merging art with artificial intelligence.",
     imgPath: "/images/manga.png",
   },
   {
-    name: "Hack Odisha 3.0",
-    mentions: "@wadewarren",
+    name: "Codeforces",
+    mentions: "@marvinmckinney",
     review:
-      "Secured 7th Rank among 500+ Teams in HackOdisha, a thrilling 36-hour online hackathon organized by NIT Rourkela.Developed a feature-rich Game Explorer Website with an intuitive frontend, robust backend, and integrated ML-based game recommendation system. Demonstrated full-stack development skills and effective teamwork under intense time constraints.",
-    imgPath: "/images/ho.png",
+      "Secured Global Rank 727 among 30,000+ Participants in Codeforces Round 1009. Demonstrated strong grasp over competitive programming concepts and ranked in the top 2.5% globally, highlighting consistency and efficiency in a highly competitive environment.",
+    imgPath: "/images/codeforces.png",
   },
   {
     name: "HSBC CTF",
@@ -218,11 +218,11 @@ const achievements = [
     imgPath: "/images/HSBC.png",
   },
   {
-    name: "Codeforces",
-    mentions: "@marvinmckinney",
+    name: "Hack Odisha 3.0",
+    mentions: "@wadewarren",
     review:
-      "Secured Global Rank 727 among 30,000+ Participants in Codeforces Round 1009. Demonstrated strong grasp over competitive programming concepts such as greedy algorithms, dynamic programming, and problem-solving under constraints. Ranked in the top 2.5% globally, highlighting consistency and efficiency in a highly competitive environment.",
-    imgPath: "/images/codeforces.png",
+      "Secured 7th Rank among 500+ Teams in HackOdisha, a thrilling 36-hour online hackathon organized by NIT Rourkela.Developed a feature-rich Game Explorer Website with an intuitive frontend, robust backend, and integrated ML-based game recommendation system. Demonstrated full-stack development skills and effective teamwork under intense time constraints.",
+    imgPath: "/images/ho.png",
   },
   {
     name: "Codechef",
