@@ -26,7 +26,7 @@ const words = [
 
 const counterItems = [
   { value: 1650, suffix: "+", label: "Rated on Codeforces" },
-  { value: 1850, suffix: "+", label: "Rated on Leetcode" },
+  { value: 1900, suffix: "+", label: "Rated on Leetcode" },
   { value: 1800, suffix: "+", label: "Rated on Codechef" },
   { value: 10, suffix: "+", label: "Completed Projects" },
 ];
