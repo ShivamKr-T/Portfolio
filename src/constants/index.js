@@ -235,7 +235,7 @@ const achievements = [
     name: "Leetcode",
     mentions: "@albertflores",
     review:
-      "Ranked in the Top 5% of Programmers on LeetCode with a highest rating of 1866. Solved 500+ problems across diverse domains including algorithms, data structures, and system design. Consistently demonstrated efficient problem-solving and code optimization in global contests and daily challenges.",
+      "Ranked in the Top 5% of Programmers on LeetCode with a highest rating of 1906. Solved 500+ problems across diverse domains including algorithms, data structures, and system design. Consistently demonstrated efficient problem-solving and code optimization in global contests and daily challenges.",
     imgPath: "/images/leetcode.png",
   },
 ];
