@@ -207,7 +207,7 @@ const achievements = [
     name: "Codeforces",
     mentions: "@marvinmckinney",
     review:
-      "Secured Global Rank 727 among 30,000+ Participants in Codeforces Round 1009. Demonstrated strong grasp over competitive programming concepts and ranked in the top 2.5% globally, highlighting consistency and efficiency in a highly competitive environment.",
+      "Secured Global Rank 536 among 30,000+ Participants in Codeforces Round 1032. Demonstrated strong grasp over competitive programming concepts and ranked in the top 2.5% globally, highlighting consistency and efficiency in a highly competitive environment.",
     imgPath: "/images/codeforces.png",
   },
   {
