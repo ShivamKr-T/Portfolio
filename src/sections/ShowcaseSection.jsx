@@ -55,16 +55,16 @@ const ShowcaseSection = () => {
                 <div className='project-list-wrapper overflow-hidden'>
                     <div className='project' ref={project2Ref}>
                         <div className='image-wrapper bg-[#e3ffdb]'>
-                            <img src="/images/agent.png" alt="Library Management" />
+                            <img src="/images/tappytalk.png" alt="Library Management" />
                         </div>
-                        <h2>CyberCraft — An AI-Driven SOC Analyst for Proactive Cyber Threat Detection</h2>
+                        <h2>TappyTalk — A Real-time Chat Application</h2>
                     </div>
 
                     <div className='project' ref={project3Ref}>
-                        <div className='image-wrapper bg-[#ffe7eb]'>
-                            <img src="/images/phish.png" alt="Library Management" />
+                        <div className='image-wrapper bg-[#8a62c6]'>
+                            <img src="/images/scanly.png" alt="Library Management" />
                         </div>
-                        <h2>Phish Eye — An Intelligent Email Scanner for Accurate Phishing Detection</h2>
+                        <h2>ScanlyAI — Smart Resume Analyzer tool</h2>
                     </div>
                 </div>
             </div>

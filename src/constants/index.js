@@ -26,8 +26,8 @@ const words = [
 
 const counterItems = [
   { value: 1650, suffix: "+", label: "Rated on Codeforces" },
-  { value: 1850, suffix: "+", label: "Rated on Leetcode" },
-  { value: 1800, suffix: "+", label: "Rated on Codechef" },
+  { value: 1950, suffix: "+", label: "Rated on Leetcode" },
+  { value: 1850, suffix: "+", label: "Rated on Codechef" },
   { value: 10, suffix: "+", label: "Completed Projects" },
 ];
 
@@ -207,7 +207,7 @@ const achievements = [
     name: "Codeforces",
     mentions: "@marvinmckinney",
     review:
-      "Secured Global Rank 727 among 30,000+ Participants in Codeforces Round 1009. Demonstrated strong grasp over competitive programming concepts and ranked in the top 2.5% globally, highlighting consistency and efficiency in a highly competitive environment.",
+      "Secured Global Rank 436 among 30,000+ Participants in Codeforces Round 1032. Demonstrated strong grasp over competitive programming concepts and ranked in the top 2.5% globally, highlighting consistency and efficiency in a highly competitive environment.",
     imgPath: "/images/codeforces.png",
   },
   {
@@ -235,7 +235,7 @@ const achievements = [
     name: "Leetcode",
     mentions: "@albertflores",
     review:
-      "Ranked in the Top 5% of Programmers on LeetCode with a highest rating of 1866. Solved 500+ problems across diverse domains including algorithms, data structures, and system design. Consistently demonstrated efficient problem-solving and code optimization in global contests and daily challenges.",
+      "Ranked in the Top 5% of Programmers on LeetCode with a highest rating of 1968 and best rank of 252. Solved 500+ problems across diverse domains and consistently demonstrated efficient problem-solving and code optimization in global contests and daily challenges.",
     imgPath: "/images/leetcode.png",
   },
 ];
